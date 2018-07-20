@@ -1,0 +1,9 @@
+.idea
+__pycache__
+*.pyc
+temp
+test*.py
+*.xml
+*.zip
+*.lst
+model
